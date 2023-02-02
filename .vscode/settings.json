@@ -2,6 +2,7 @@
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true,
     "cSpell.words": [
+        "asciimatics",
         "Атака",
         "ближнего",
         "блокировал",
@@ -12,6 +13,7 @@
         "Если",
         "Защита",
         "исцелять",
+        "каждого",
         "Лекарь",
         "навыками",
         "нанёс",
@@ -31,5 +33,8 @@
         "урон",
         "урона"
     ],
-    "python.linting.mypyEnabled": false
+    "python.linting.mypyEnabled": false,
+    "python.analysis.extraPaths": [
+        "./graphic_arts"
+    ]
 }
